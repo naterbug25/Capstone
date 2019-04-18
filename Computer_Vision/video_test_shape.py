@@ -1,3 +1,8 @@
+# Nathan Huber
+# Senior Design Capstone
+# Rev: 1.0
+# Head Tracking with Angles
+
 # activate opencv-env
 #!/usr/bin/env python3
 import subprocess
